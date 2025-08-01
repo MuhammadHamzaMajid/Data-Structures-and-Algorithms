@@ -1,4 +1,4 @@
-/*#include<iostream>
+#include<iostream>
 #include<cstdlib>
 #include<ctime>
 #include<cmath>
@@ -96,4 +96,4 @@ void printHeap()
         cout << endl;
     }
     else cout << "Heap is empty" << endl;
-}*/
+}

@@ -1,4 +1,4 @@
-/*#include <iostream>
+#include <iostream>
 #include <cstdlib>
 #include <ctime>
 using namespace std;
@@ -64,4 +64,4 @@ void countingSort()
         result[count[numbers[i]] - 1] = numbers[i];
         count[numbers[i]]--;
     }
-}*/
+}

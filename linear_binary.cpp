@@ -1,4 +1,4 @@
-﻿/*#pragma once
+﻿#pragma once
 #include<iostream>
 using namespace std;
 
@@ -67,4 +67,4 @@ int main(){
 	}
 	cout << "Steps taken with binary search: " << steps << endl;
 	return 0;
-}*/
+}

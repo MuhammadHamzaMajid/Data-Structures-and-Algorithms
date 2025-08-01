@@ -1,4 +1,4 @@
-/*#include <iostream>
+#include <iostream>
 #include <limits.h> // For INT_MAX
 using namespace std;
 
@@ -129,4 +129,4 @@ void prim()
         sTree[u][v] = w;
         sTree[v][u] = w;
     }
-}*/
+}

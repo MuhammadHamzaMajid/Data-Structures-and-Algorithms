@@ -1,4 +1,4 @@
-/*#include <iostream>
+#include <iostream>
 using namespace std;
 
 const int N = 6;
@@ -132,4 +132,3 @@ void dijkstra(int start)
         }
     }
 }
-*/

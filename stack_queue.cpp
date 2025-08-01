@@ -1,4 +1,4 @@
-/*#include <iostream>
+#include <iostream>
 using namespace std;
 
 // STACK 
@@ -130,4 +130,3 @@ int main() {
     cout << qGet() << " ";
     cout << qGet() << endl;
 }
-*/
